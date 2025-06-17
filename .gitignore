@@ -1,0 +1,7 @@
+# root .gitignore
+node_modules/
+dist/
+.env
+
+.vscode/
+.idea/
